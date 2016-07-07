@@ -18,7 +18,7 @@ public class InfiniteLoops {
 		
 		i=0;
 		do{
-          	  System.out.println("C_" + i++);
+    	System.out.println("C_" + i++);
 		  if(i==5) break;
 		} while(true);
 		
