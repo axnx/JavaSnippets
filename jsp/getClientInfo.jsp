@@ -21,7 +21,7 @@
 	Enumeration e = request.getHeaderNames();
 	String header;
 	String k,v;
-	HashMap<String,String> hm = new HashMap<>();
+	LinkedHashMap <String,String> hm = new LinkedHashMap<>();
 	while(e.hasMoreElements()){
 		k = (String)e.nextElement();
 		v =  request.getHeader(k);
