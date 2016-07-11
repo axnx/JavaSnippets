@@ -21,10 +21,10 @@
 </center>
 <ul>
 <li><p><b>First Name:</b>
-  Matthias
+  Max
 </p></li>
 <li><p><b>Last  Name:</b>
-   Storost
+  Mustermann
 </p></li>
 </ul>
 </body>
